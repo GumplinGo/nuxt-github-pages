@@ -9,9 +9,9 @@ export default defineNuxtConfig({
   // },
   app: {
     baseURL: '/nuxt-github-pages/',
-    buildAssetsDir: 'nuxt_assets',
+    // buildAssetsDir: 'nuxt_assets',
   },
-  experimental: {
-    payloadExtraction: false
-  },
+  // experimental: {
+  //   payloadExtraction: false
+  // },
 })
